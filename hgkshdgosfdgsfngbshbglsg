@@ -1,0 +1,1 @@
+input("Réussi! MP Billy avec le flag pour rester Helper.") if input("Entrez le flag -> ") == '452' else input("Mauvais flag!")
