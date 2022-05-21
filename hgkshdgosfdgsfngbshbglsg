@@ -1,1 +1,0 @@
-input("GG :)") if input("Entrez le flag -> ") == '84382977' else input("Mauvais flag!")
